@@ -1211,7 +1211,7 @@ int main()
 	              system("cls");
 	              cout<<endl<<endl<<endl<<endl<<endl<<endl<<endl<<endl<<endl<<endl;
 		  		  cout<<"\t\t\t\a\aDONE BY:-"<<endl<<endl;
-                  cout<<"\t\t\t\tP.SRINATH"<<endl;
+                  cout<<"\t\t\t\tShivani"<<endl;
 	    }
         else
             cout<<"\aEnter a valid number";
